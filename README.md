@@ -9,13 +9,14 @@ const AboutMe = () => {
         job: 'web designer(front end devloper)',
         favourites: 'coding & footbal'
     }
+    const {name, family, nockname, country, city, job, favourites} = myInformation
     return(
     <div>
         <h1>hello body👋</h1>
-        <h4>myName is : {myInformation.name} (nicknamed {myInformation.nickname})</h4>
-        <h4>myFamily : {myInformation.family}</h4>
-        <h4>i live in ({myInformation.city}) from {myInformation.country}🦁☀</h4>
-        <h4> my job is {myInformation.job} and i am ready to work with you✔</h4>
+        <h4>myName is : {name} (nicknamed {nickname})</h4>
+        <h4>myFamily : {family}</h4>
+        <h4>i live in ({city}) from {country}🦁☀</h4>
+        <h4> my job is {job} and i am ready to work with you✔</h4>
     </div>
     
 )
