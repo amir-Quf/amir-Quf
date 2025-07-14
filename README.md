@@ -53,3 +53,6 @@ Professional front-end developer in web design and UI development using the late
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amir-Quf/amir-Quf/36e3b47851f8453722a72155f7cbc487adc4d0ae/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/amir-Quf/amir-Quf/blob/main/photoshop.png?raw=true" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
+----
+<img src='https://github-readme-stats.vercel.app/api?username=amir-Quf&show_icons=true&theme=radical' /><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=amir-Quf&layout=compact&theme=radical' />
