@@ -32,7 +32,7 @@ front end Developer
 
 ---
 
-Professional front-end developer in web design and UI development using the latest web technologies. Creative digital design and development using HTML | CSS | JavaScript | Framer-Motion | Bootstrap | ReactJs 👨‍💻 Converting images into functional prototypes 👨‍💻 
+Professional front-end developer in web design and UI development using the latest web technologies. Creative digital design and development using HTML | CSS | JavaScript | ReactJs | nextJs | tailwind 👨‍💻 Converting images into functional prototypes 👨‍💻 
 
 - 🌍 I am based in Mashhad (iran)
 - 🖥️ See my portfolio on gitHub
