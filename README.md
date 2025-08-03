@@ -49,13 +49,16 @@ Professional front-end developer in web design and UI development using the late
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React JS" /></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /></a>
-    <a href="https://motion.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/amir-Quf/amir-Quf/blob/main/motion.png?raw=true" width="36" height="36" alt="Framer Motion" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /></a>
-    <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img width="40" alt="zustand" /></a>
-    <a href="" target="_blank" rel="noreferrer"></a>
-    <a href="" target="_blank" rel="noreferrer"></a>
+    <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://github.com/amir-Quf/amir-Quf/blob/main/zustand.png" width="40" alt="zustand" /></a>
     <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" alt="Axios" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" alt="tailwind" /></a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /></a>
+    <a href="https://motion.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="36" height="36" alt="Framer Motion" /></a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="40" alt="shadcn" /></a>
+    <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" alt="git" /></a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354210/prisma.svg" width="40" alt="prisma" /></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="40" alt="sqlite" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amir-Quf/amir-Quf/36e3b47851f8453722a72155f7cbc487adc4d0ae/mysql.svg" width="36" height="36" alt="MySQL" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amir-Quf/amir-Quf/36e3b47851f8453722a72155f7cbc487adc4d0ae/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" alt="Adobe Photoshop" /></a>
